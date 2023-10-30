@@ -1,4 +1,4 @@
-![ ]([https://media.licdn.com/dms/image/D5616AQFUE4WUbuv-zg/profile-displaybackgroundimage-shrink_350_1400/0/1698658648842?e=1704326400&v=beta&t=nXyWZn4i7hJH2pmWaKfs0tOvbyDcUxGT-B-Zc5dtHjA](https://drive.google.com/file/d/1lkMyiR8R7XMdmPmSeSizsfM1pirDxmM8/view?usp=drivesdk))
+![ ](https://media.licdn.com/dms/image/D5616AQFUE4WUbuv-zg/profile-displaybackgroundimage-shrink_350_1400/0/1698658648842?e=1704326400&v=beta&t=nXyWZn4i7hJH2pmWaKfs0tOvbyDcUxGT-B-Zc5dtHjA](https://drive.google.com/file/d/1lkMyiR8R7XMdmPmSeSizsfM1pirDxmM8/view?usp=drivesdk))
 <h1 align="center">Hi 👋, I'm Abdul Aziz</h1>
 <h3 align="center">I am a Full Stack Developer with a huge love for React.js, Laravel, Headless Tech, Everything API, TailwindCSS and Small Team Lead. Currently, I'm open to work and employment opportunities.</h3>
 
