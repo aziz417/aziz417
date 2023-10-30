@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Aziz</h1>
 <h3 align="center">I am a Full Stack Developer with a huge love for React.js, Laravel, Headless Tech, Everything API, TailwindCSS and Small Team Lead. Currently, I'm open to work and employment opportunities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz417&label=Profile%20views&color=0e75b6&style=flat" alt="aziz417" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aziz417" alt="aziz417" /></a> </p>
-
 - 🔭 I’m currently working on [Land Consultancy System](https://vumiseba.com.bd/)
 
 - 🌱 I’m currently learning **NextJs And NodeJs With Laravel**
