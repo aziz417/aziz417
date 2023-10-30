@@ -1,6 +1,6 @@
-<img align="center" src="https://media.licdn.com/dms/image/D5616AQEXSOX-vSl8yw/profile-displaybackgroundimage-shrink_350_1400/0/1698658724634?e=1704326400&v=beta&t=Tq3G71CkCgmdIxQxl_6VJa7umQfZAtaprYgz91Qui8w">
+<img align="center" width="100%" src="https://media.licdn.com/dms/image/D5616AQEXSOX-vSl8yw/profile-displaybackgroundimage-shrink_350_1400/0/1698658724634?e=1704326400&v=beta&t=Tq3G71CkCgmdIxQxl_6VJa7umQfZAtaprYgz91Qui8w">
 <h1 align="center">Hi 👋, I'm Abdul Aziz</h1>
-<h3 align="center">I am a Full Stack Developer with a huge love for React.js, Laravel, Headless Tech, Everything API, TailwindCSS and Small Team Lead. Currently, I'm open to work and employment opportunities.</h3>
+<h3 align="left">I am a Full Stack Developer with a huge love for React.js, Laravel, Headless Tech, Everything API, TailwindCSS and Small Team Lead. Currently, I'm open to work and employment opportunities.</h3>
 
 - 🔭 I’m currently working on [Land Consultancy System](https://vumiseba.com.bd/)
 
