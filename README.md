@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **aziz417.dev@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://www.linkedin.com/in/abdul-aziz-296](https://drive.google.com/file/d/1lcRDBhEVHXY4WAzIiFBTKa7gHfa-mEPQ/view)" target="blank">[My Resume](https://drive.google.com/file/d/1lcRDBhEVHXY4WAzIiFBTKa7gHfa-mEPQ/view)</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1lcRDBhEVHXY4WAzIiFBTKa7gHfa-mEPQ/view]" target="blank">[My Resume]</a>
 
 - ⚡ Fun fact **I love to playing chess game and rubix cube.**
 
