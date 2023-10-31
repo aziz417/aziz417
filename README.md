@@ -31,7 +31,6 @@
 - 📫 How to reach me **aziz417.dev@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lcRDBhEVHXY4WAzIiFBTKa7gHfa-mEPQ/view" target="_blank">[My Resume]</a>
-- 📄 Know about my experiences [Google](https://google.com){target="_blank"}
 
 - ⚡ Fun fact **I love to playing chess game and rubix cube.**
 
